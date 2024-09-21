@@ -1,7 +1,7 @@
 # oemerlite
 Oemer with Tensorflow lite
 
-This is the tensorflowlite version of oemer. Oemer is an Optical Music Recognition system build on top of deep learning models and machine learning techniques. Able to transcribe on skewed and phone taken photos. The models were trained to identify Western Music Notation, which could mean the system will probably not work on transcribing hand-written scores or othernotation types.
+This is the tensorflowlite version of [oemer](https://github.com/BreezeWhite/oemer) (MIT License). Oemer is an Optical Music Recognition system build on top of deep learning models and machine learning techniques. Able to transcribe on skewed and phone taken photos. The models were trained to identify Western Music Notation, which could mean the system will probably not work on transcribing hand-written scores or othernotation types.
 
 _How to use oemerlite?_
 
